@@ -10,6 +10,6 @@ class Solution {
                 secmax=nums[i];
             }
         }
-        return (secmax-1)*(max-1);
+        return (--secmax)*(--max);
     }
 }
