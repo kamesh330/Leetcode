@@ -1,25 +1,41 @@
+import java.util.*;
+
 class Solution {
     public String smallestPalindrome(String s) {
-        StringBuilder sb = new StringBuilder();
-        Map<Character, Integer> map = new TreeMap<>();
-        for (char i : s.toCharArray())     map.put(i, map.getOrDefault(i, 0) + 1);
-        char[] arr = new char[s.length()];
-        int idx = 0, n = s.length() - 1, count = 0, oddcount = 0;
-        char oddvalue = 'a';
-        Map<Character, Integer> list = new TreeMap<>();
-       for (Map.Entry<Character, Integer> pair : map.entrySet()) {
-            count = 0;
-            while (count < (pair.getValue() / 2)) {
-                arr[idx] = pair.getKey();
-                arr[n - idx] = pair.getKey();
-                idx++;
-                count++;
-            }
-            if (pair.getValue() % 2 == 1) {
-                arr[n/2]=pair.getKey();
-            }
-        }       
-        return String.valueOf(arr);
 
+        Map<Character, Integer> map = new TreeMap<>();
+
+        for (char ch : s.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
+        char[] arr = new char[s.length()];
+        int left = 0;
+        int right = s.length() - 1;
+
+        Character middle = null;
+
+        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
+
+            int freq = entry.getValue();
+
+            while (freq >= 2) {
+                arr[left] = entry.getKey();
+                arr[right] = entry.getKey();
+                left++;
+                right--;
+                freq -= 2;
+            }
+
+            if (freq == 1) {
+                middle = entry.getKey();
+            }
+        }
+
+        if (middle != null) {
+            arr[left] = middle;
+        }
+
+        return new String(arr);
     }
 }
