@@ -41,9 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
