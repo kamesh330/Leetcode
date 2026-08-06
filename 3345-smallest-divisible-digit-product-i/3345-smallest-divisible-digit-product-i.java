@@ -10,12 +10,7 @@ class Solution {
 
     public int smallestNumber(int n, int t) {
         int temp = n;
-        // boolean flag = true;
-        // int product = 0;
-        while (!(ProductCalculation(temp) % t == 0)) {
-            temp++;
-        }
-        // product = ProductCalculation(temp);
+        while (!(ProductCalculation(temp) % t == 0)) {temp++;}
         return temp;
     }
 }
