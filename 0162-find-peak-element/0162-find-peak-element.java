@@ -10,7 +10,7 @@ class Solution {
                 right=mid;
             }
         }
-        System.out.println(left+" "+right);
+        // System.out.println(left+" "+right);
         return left;
     }
 }
