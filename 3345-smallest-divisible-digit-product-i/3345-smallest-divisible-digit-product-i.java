@@ -5,7 +5,7 @@ class Solution {
             product*=num%10;
             num=num/10;
         }
-        System.out.println(product);
+        // System.out.println(product);
         return product;
     }
     public int smallestNumber(int n, int t) {
@@ -14,7 +14,7 @@ class Solution {
         int product=0;
         while(!(ProductCalculation(temp)%t==0)){ temp++;}
          product=ProductCalculation(temp);
-        System.out.println(temp+" "+product);
+        // System.out.println(temp+" "+product);
         return temp;
     }
 }
