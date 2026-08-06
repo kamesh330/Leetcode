@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0704-binary-search) |
 ## Matrix
