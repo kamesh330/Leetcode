@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
