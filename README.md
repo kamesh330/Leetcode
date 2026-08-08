@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3731-find-missing-elements) |
