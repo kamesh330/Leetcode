@@ -1,23 +1,47 @@
 class Solution {
-    public int  firstOccurance(int nums[],int target){
-        int left=0,right=nums.length;
-        while(left<right){
-            int mid=left+(right-left)/2;
-            if(nums[mid]<target){
-                left=mid+1;
-            }
-            else{
-                right=mid;
-            }
+   
+    public int firstOccurance(int[] nums,int target){
+         int mid=0,left=0,right=nums.length-1;
+         int ans=-1;
+        while(left<=right){
+           mid=(left+right)/2;
+           if(nums[mid]==target){
+            ans=mid;
+            right=mid-1;
+            // left=mid+1;
+           }
+           else if(nums[mid]<target){
+            // ans=nums[mid];
+            left=mid+1;
+           }
+           else{
+            right=mid-1;
+           }
         }
-        return left;
+        return ans;
     }
-    public int[] searchRange(int[] nums, int target) {
-        if(nums.length==0) return new int[] {-1,-1};
-       int start=firstOccurance(nums,target);
-       if((start==nums.length)||(nums[start]!=target))  return new int[] {-1,-1};  
-       
-        return new int[]{start,firstOccurance(nums,target+1)-1};
 
+    public int lastOccurance(int[] nums,int target){
+          int mid=0,left=0,right=nums.length-1;
+          int ans=-1;
+        while(left<=right){
+           mid=(left+right)/2;
+           if(nums[mid]==target){
+            ans=mid;
+            left=mid+1;
+           }
+           else if(nums[mid]<target){
+            left=mid+1;
+           }
+           else{
+            // ans=nums[mid];
+            right=mid-1;
+           }
+        }
+        return ans;
+    }
+
+    public int[] searchRange(int[] nums, int target) {
+        return new int[]{firstOccurance(nums,target),lastOccurance(nums,target)};
     }
 }
