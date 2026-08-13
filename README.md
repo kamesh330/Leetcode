@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
