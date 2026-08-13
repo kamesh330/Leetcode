@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
