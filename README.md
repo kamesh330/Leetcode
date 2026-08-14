@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0394-decode-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0394-decode-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
