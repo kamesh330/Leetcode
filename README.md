@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
