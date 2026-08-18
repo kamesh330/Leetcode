@@ -7,7 +7,7 @@ class Solution {
             for(int j=i;j<i+k;j++){
                 set.add(nums[j]);
             }
-            System.out.println(set);
+            // System.out.println(set);
             for(int num:set)  map.put(num,map.getOrDefault(num,0)+1);
         }
         for(Map.Entry<Integer,Integer> pair:map.entrySet()){
