@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
