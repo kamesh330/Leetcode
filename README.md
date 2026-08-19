@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0394-decode-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0394-decode-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
