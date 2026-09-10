@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
