@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kamesh330/https-github.com-kamesh330-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
