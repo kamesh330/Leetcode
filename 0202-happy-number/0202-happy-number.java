@@ -17,7 +17,7 @@ class Solution {
             if(temp==1) {
                 return true;
             }
-            System.out.println(" temp"+temp+"sum"+n);
+            // System.out.println(" temp"+temp+"sum"+n);
             n=temp;
 
         }
